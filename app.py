@@ -1,5 +1,5 @@
 import streamlit as st
-from zoro_chatbot import zoro_chatbot
+#from zoro_chatbot import zoro_chatbot
 
 st.set_page_config(
     page_title="FuturePath AI",
